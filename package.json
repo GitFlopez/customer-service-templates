@@ -1,0 +1,10 @@
+{
+  "name": "customer-service-templates",
+  "version": "1.0.0",
+  "description": "ClawHub skill: customer-service-templates",
+  "license": "MIT-0",
+  "openclaw": {
+    "type": "skill",
+    "category": "productivity"
+  }
+}
